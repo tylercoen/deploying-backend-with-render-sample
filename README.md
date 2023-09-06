@@ -1,5 +1,5 @@
 ## Deploying a Back-end with Render
-Hello! This GitHub repo is intended to be used with the article [Deploying a Back-end with Render](https://www.codecademy.com/articles/deploying-a-back-end-with-render).
+Hello! This GitHub repo is intended to be used with the article [Deploying a Back-end with Render](https://www.codecademy.com/articles/deploying-a-back-end-application-with-render).
 
 Make sure to follow the steps as outlined in the article to see how to use Render for your deployment needs!
 
